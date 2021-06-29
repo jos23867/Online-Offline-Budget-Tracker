@@ -1,5 +1,5 @@
 # Online-Offline-Budget-Tracker
-Check out the App here!:https://desolate-scrubland-50344.herokuapp.com/
+Check out the App here!:https://polar-savannah-41482.herokuapp.com/
 ## Table of Contents
 
 * [Description](#description)
@@ -20,7 +20,7 @@ When brought back online, the offline entries should be added to tracker.
 
 ## Deployment
 
-https://desolate-scrubland-50344.herokuapp.com/
+https://polar-savannah-41482.herokuapp.com/
 
 ## Built With
 
